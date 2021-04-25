@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My_First_Application</string>
+    <string name="Вопрос">Согласен?</string>
+    <string name="Turn">ON</string>
+    <string name="Button">PushMe</string>
+    <string name="Something">Какой то текст</string>
 </resources>
